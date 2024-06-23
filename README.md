@@ -41,4 +41,9 @@ Simply navigate through the different sections of the website to learn more abou
 ## Contact
 For any questions or feedback, feel free to reach out:
 
+## Tech Stack
+- HTML
+- CSS
+- -JavaScript
+
 Email: opensource@gmail.com
