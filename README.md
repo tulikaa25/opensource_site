@@ -2,7 +2,7 @@
 
 Welcome to the Open Source Club Website! This project serves as the official website for the Open Source Club at VIT hopal University. It includes information about us, upcoming and past events, team members, and how to contribute to open source.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ashnik.com%2Fopen-source-101-everything-you-need-to-know-about-open-source%2F&psig=AOvVaw2dnQQB4T5A9S9C7YoGgSgv&ust=1719246723694000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCbt6mT8oYDFQAAAAAdAAAAABAE" >
+
 
 ## Table of Contents
 
